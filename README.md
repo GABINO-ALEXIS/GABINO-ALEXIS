@@ -88,6 +88,6 @@ interface Developer {
 
 <div>
   <!-- Example: -->
-  <a href="www.linkedin.com/in/alexis-gabino-cisneros-843a46398"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+  <a href="www.linkedin.com/in/gabinoalexis"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=GABINO-ALEXIS.GABINO-ALEXIS&right_color=aqua&left_text=PROFILE%20VIEWS"  />
 </div>
