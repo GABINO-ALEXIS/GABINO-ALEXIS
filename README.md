@@ -2,7 +2,7 @@
 
 <!--- <br>👋🏼 Welcome to my GitHub portfolio! --->
 
-# Hi there! I'm Gabino 👋🏼 <br> [![Typing SVG](https://readme-typing-svg.demolab.com?font=jetbrains+mono&weight=600&size=22&duration=5000&pause=1000&width=1000&height=30&center=true&vCenter=true&lines=Full+Stack+Developer;TypeScript+Enthusiast;System+Design+Explorer;Always+Learning)](https://git.io/typing-svg)
+# Hi there! I'm Alexis Gabino 👋🏼 <br> [![Typing SVG](https://readme-typing-svg.demolab.com?font=jetbrains+mono&weight=600&size=22&duration=5000&pause=1000&width=1000&height=30&center=true&vCenter=true&lines=Full+Stack+Developer;TypeScript+Enthusiast;System+Design+Explorer;Always+Learning)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ```typescript
 interface Developer {
-  name: "Gabino Alexis";
+  name: "Alexis Gabino";
   role: "Full Stack + Systems Developer";
   languages: ["JavaScript", "TypeScript"];
   focus: ["System Design", "AI/ML"];
